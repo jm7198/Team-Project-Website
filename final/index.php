@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="asset/css/style.css" />
+    <link rel="stylesheet" href="asset/css/test.css" />
     <title>Hamburger Menu</title>
 </head>
 
