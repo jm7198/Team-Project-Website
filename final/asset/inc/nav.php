@@ -1,13 +1,19 @@
-<nav>
-    <ul class="menu">
-        <li><a class="menuItem" href="#">Home</a></li>
-        <li><a class="menuItem" href="#">Profile</a></li>
-        <li><a class="menuItem" href="#">About</a></li>
-        <li><a class="menuItem" href="#">Contacts</a></li>
+<nav id="nav">
+
+    <ul>
+        <li>HOme</li>
+        <li>About</li>
+        <li>Contact</li>
+        <li>Help</li>
     </ul>
-    <button class="hamburger">
-        <!-- material icons https://material.io/resources/icons/ -->
-        <i class="menuIcon material-icons">menu</i>
-        <i class="closeIcon material-icons">close</i>
-    </button>
+
 </nav>
+
+<div id='navbar'>
+    <ul>
+        <li><a href="#">Logo</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Work</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</div>
