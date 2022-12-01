@@ -1,14 +1,25 @@
-var icon = document.getElementById("icon");
-var icon1 = document.getElementById("a");
-var icon2 = document.getElementById("b");
-var icon3 = document.getElementById("c");
-var nav = document.getElementById('nav');
-var blue = document.getElementById("blue");
+const mainMenu = document.querySelector('.mainMenu');
+const closeMenu = document.querySelector('.closeMenu');
+const openMenu = document.querySelector('.openMenu');
+const menu_items = document.querySelectorAll('nav .mainMenu li a');
 
-icon.addEventListener('click', function() {
-  icon1.classList.toggle('a');
-  icon2.classList.toggle('c');
-  icon3.classList.toggle('b');
-  nav.classList.toggle('show');
-  blue.classList.toggle('slide');
-});
+
+
+
+openMenu.addEventListener('click',show);
+closeMenu.addEventListener('click',close);
+
+// close menu when you click on a menu item 
+menu_items.forEach(item => {
+    item.addEventListener('click',function(){
+        close();
+    })
+})
+
+function show(){
+    mainMenu.style.display = 'flex';
+    mainMenu.style.top = '0';
+}
+function close(){
+    mainMenu.style.top = '-100%';
+}
