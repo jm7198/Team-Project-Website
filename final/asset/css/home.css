@@ -29,3 +29,39 @@ body{
   transition-duration: .2s;
   transition-timing-function: ease;
 }
+
+#sun{
+  order: 5;
+}
+
+#mercury{
+  order: 6
+}
+
+#venus{
+  order: 4
+}
+
+#earth{
+  order: 7
+}
+
+#mars{
+  order: 3
+}
+
+#jupiter{
+  order: 8
+}
+
+#saturn{
+  order: 2;
+}
+
+#neptune{
+  order: 9;
+}
+
+#uranus{
+  order: 1;
+}
