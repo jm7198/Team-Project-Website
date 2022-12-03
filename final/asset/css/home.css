@@ -1,0 +1,31 @@
+*{
+  outline: solid 1px hotpink;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+body{
+  background-image: url(../images/star-background.jpg);
+}
+
+#solar-system{
+  display: flex;
+  flex-direction: row;
+}
+
+#solar-system a{
+  flex-shrink: 1;
+}
+
+#solar-system img{
+  width:100%;
+}
+
+#solar-system a:hover{
+  transform: scale(1.2);
+  transition-duration: .2s;
+  transition-timing-function: ease;
+}
