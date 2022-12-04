@@ -7,13 +7,14 @@ h2{
 }
 body{
     
-    background-image: url(../images/Rotating.gif), url(../images/star-background.jpg);
-    background-repeat: no-repeat,repeat;
-    background-position:center, 0%;
-    background-size: 100% 100%,100% 100%;
+    background-image:  url(../images/star-background.jpg);
+    background-repeat: repeat;
+    background-position: 0%;
+    background-size:100% 100%;
     
     
 }
+
 
 img{
     display:block;
@@ -23,7 +24,9 @@ img{
     
 }
 
-
+h2{
+  margin-bottom: 10px;
+}
 
   .container {
     display: grid;
@@ -40,31 +43,48 @@ img{
   }
   
   #Description {
+
+    padding: 20px;
+    padding-top:10px;
+    margin-top: 20px;
+    margin-left: 30px;
     grid-column-start: 1;
     grid-column-end: 3;
     color: white ;
   }
   #Atmostphere {
+    padding: 20px;
+    padding-top: 0px;
+    margin-left: 30px;
     grid-row-start: 2;
     grid-row-end: 3;
     color: white ;
   }
   #Geology {
+    padding: 20px;
+    padding-top: 0px;
+    margin-left: 30px;
     grid-row-start: 3;
     grid-row-end: 3;
     color: white ;
   }
 
   #Fun-Fact{
+    padding: 20px;
+    padding-top: 0px;
+    margin-left: 30px;
     grid-column-start: 4;
     grid-column-end: 4;
     color: white ;
   
   }
 
-  #planet{
-    grid-row-start: 2;
+  #planets{
+    /* grid-row-start: 2;
     grid-column-end: 4;
-    color: white ;
+    color: white ; */
   }
 
+/* #planet{
+max-width: 100%;
+} */
