@@ -82,7 +82,7 @@ h2{
   
   }
 
-  footer{
+  footer {
     padding: 20px;
     padding-top: 0px;
     margin-left: 30px;
@@ -95,8 +95,21 @@ h2{
     color: white ;
   }
 
-  ul{
+  ul {
     list-style-type: none;
+  }
+
+  a {
+    color: darkblue;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: darkgreen;
+  }
+
+  a:hover {
+    color: green;
   }
 
   #planets{
