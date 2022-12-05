@@ -48,7 +48,7 @@
                     these sources condensed into the oceans, augmented by water and ice from asteroids, protoplanets,
                     and comets.
                 </li>
-                <li>Number of Moons:None</li>
+                <li>Number of Moons: 1</li>
                 <li>Gravity - 9.80665 m/s<sup>2</sup></li>
                 <li>Terrestrial</li>
 
