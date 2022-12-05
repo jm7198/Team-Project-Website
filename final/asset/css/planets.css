@@ -1,6 +1,6 @@
-*{
+/* *{
   outline: solid hotpink 1px;
-}
+} */
 
 h1{
     text-align: center;
@@ -116,11 +116,11 @@ h2{
     color: green;
   }
 
-  #planets{
-    /* grid-row-start: 2;
+  /* #planets{
+    grid-row-start: 2;
     grid-column-end: 4;
-    color: white ; */
-  }
+    color: white ; 
+  } */
 
   #wormhole{
     padding: 20px;

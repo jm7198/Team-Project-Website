@@ -25,9 +25,8 @@
       <div><a id="mars" href="asset/subpages/mars.php"><img id="mars-img" src="asset/images/mars.png" alt="image of the mars"></a></div>
       <div><a id="jupiter" href="asset/subpages/jupiter.php"><img id="jupiter-img" src="asset/images/jupiter.png" alt="image of the jupiter"></a></div>
       <div><a id="saturn" href="asset/subpages/saturn.php"><img id="saturn-img" src="asset/images/saturn.png" alt="image of the saturn"></a></div>
-      <div><a id="neptune" href="asset/subpages/neptune.php"><img id="neptune-img" src="asset/images/neptune.png" alt="image of the neptune"></a></div>
       <div><a id="uranus" href="asset/subpages/uranus.php"><img id="uranus-img" src="asset/images/uranus.png" alt="image of the uranus"></a></div>
-
+      <div><a id="neptune" href="asset/subpages/neptune.php"><img id="neptune-img" src="asset/images/neptune.png" alt="image of the neptune"></a></div>
     </div>
 
     <script src="asset/js/hamburger.js"></script>

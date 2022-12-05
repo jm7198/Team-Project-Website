@@ -96,20 +96,20 @@ body{
 
 }
 
-#neptune{
+#uranus{
   /* order: 9; */
-  width: 40%;
+  width: 100%;
   position: relative;
   top: 40vh;
-  left: -6vw;
+  left: -5vw;
 
 }
 
-#uranus{
+#neptune{
   /* order: 1; */
-  width: 300%;
+  width: 80%;
   position: relative;
   top: 40vh;
-  left: -20vw;
+  left: -2vw;
 
 }
