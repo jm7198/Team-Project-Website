@@ -115,12 +115,10 @@
             </p>
         </section>
 
-        <section id = "wormhole">
-            <h3>Do you dare enter the wormhole?</h3>
-        </section>
+        <?php include '../inc/wormhole.php';?>
         <!-- <section id="planets">
             <img id="planet" src="../images/earth-Rotating.gif" </section> -->
-        <script src="../js/wormhole.js"></script>
+        
         <?php include '../inc/footer.php';?>
     </div>
 

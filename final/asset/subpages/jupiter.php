@@ -107,6 +107,7 @@
                 gradually becomes hotter and denser as depth increases.
             </p>
         </section>
+        <?php include '../inc/wormhole.php';?>
         <?php include '../inc/footer.php';?>
     </div>
 

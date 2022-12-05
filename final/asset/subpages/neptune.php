@@ -49,6 +49,7 @@
 
             The core of Neptune is likely composed of iron, nickel and silicates, with an interior model giving a mass about 1.2 times that of Earth. The pressure at the center is 7 Mbar (700 GPa), about twice as high as that at the center of Earth, and the temperature may be 5,400 K. </p>
         </section>
+        <?php include '../inc/wormhole.php';?>
         <?php include '../inc/footer.php';?>
     </div>
 

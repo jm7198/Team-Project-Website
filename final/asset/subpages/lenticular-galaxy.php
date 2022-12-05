@@ -31,6 +31,7 @@
                 <li>Distance From earth: Lenticular Galaxies are a type of galaxy. One such galaxy NGC 2787 is located around 24 million light years away.</li>
             </ul>
         </section>
+        <?php include '../inc/wormhole.php';?>
         <?php include '../inc/footer.php';?>
     </div>
 

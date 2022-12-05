@@ -48,6 +48,7 @@
 
             he Moon is the second-densest satellite in the Solar System, after Io. However, the inner core of the Moon is small, with a radius of about 350 kilometers (220 mi) or less, around 20% of the radius of the Moon. Its composition is not well understood, but is probably metallic iron alloyed with a small amount of sulfur and nickel; analyses of the Moon's time-variable rotation suggest that it is at least partly molten. The pressure at the lunar core is estimated to be 5 GPa (49,000 atm).            </p>
         </section>
+        <?php include '../inc/wormhole.php';?>
         <?php include '../inc/footer.php';?>
     </div>
 

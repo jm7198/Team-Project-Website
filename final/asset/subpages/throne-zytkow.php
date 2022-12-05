@@ -30,6 +30,8 @@
                 <li>Distance From earth: Not applicable because this is semi theoretical and unproven, though evidence does exist for them.</li>
             </ul>
         </section>
+        <?php include '../inc/wormhole.php';?>
+        <?php include '../inc/footer.php';?>
     </div>
 
 </body>
