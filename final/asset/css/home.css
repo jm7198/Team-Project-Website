@@ -1,6 +1,6 @@
-*{
+/* *{
   outline: solid 1px hotpink;
-}
+} */
 
 h1{
   text-align: center;
@@ -18,10 +18,11 @@ body{
 
 #solar-system a{
   flex-shrink: 1;
+  display: inline-block;
 }
 
 #solar-system img{
-  width:100%;
+  width:211%;
 }
 
 #solar-system a:hover{
@@ -31,37 +32,79 @@ body{
 }
 
 #sun{
-  order: 5;
+  /* order: 5; */
+  width: 200%;
+  position: relative;
+  left: -5vw;
 }
 
 #mercury{
-  order: 6
+  /* order: 6 */
+  width: 20%;
+  position: relative;
+  top: 20vh;
+  left: 15vw;
 }
 
 #venus{
-  order: 4
+  /* order: 4 */
+  width: 30%;
+  position: relative;
+  top: 22vh;
+  left: 10vw;
+
 }
 
 #earth{
-  order: 7
+  /* order: 7 */
+  width: 14%;
+  position: relative;
+  top: 22vh;
+  left: 8vw;
+
 }
 
 #mars{
-  order: 3
+  /* order: 3 */
+  width: 20%;
+  position: relative;
+  top: 25vh;
+  left: -7vw;
+
 }
 
 #jupiter{
-  order: 8
+  /* order: 8 */
+  width: 60%;
+  position: relative;
+  top: 30vh;
+  left: -15vw;
+
 }
 
 #saturn{
-  order: 2;
+  /* order: 2; */
+  width: 130%;
+  position: relative;
+  top: 35vh;
+  left: -15vw;
+
 }
 
 #neptune{
-  order: 9;
+  /* order: 9; */
+  width: 40%;
+  position: relative;
+  top: 40vh;
+  left: -6vw;
+
 }
 
 #uranus{
-  order: 1;
+  /* order: 1; */
+  width: 300%;
+  position: relative;
+  top: 40vh;
+  left: -20vw;
+
 }

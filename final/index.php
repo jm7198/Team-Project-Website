@@ -15,15 +15,16 @@
     <?php include 'asset/inc/header.php';?>
 
     <div id="solar-system">
-      <a id="sun" href="asset/subpages/sun.php"><img id="sun-img" src="asset/images/sun.png" alt="image of the sun"></a>
-      <a id="mercury" href="asset/subpages/mercury.php"><img id="mercury-img" src="asset/images/mercury.png" alt="image of the mercury"></a>
-      <a id="venus" href="asset/subpages/venus.php"><img id="venus-img" src="asset/images/venus.png" alt="image of the venus"></a>
-      <a id="earth" href="asset/subpages/earth.php"><img id="earth-img" src="asset/images/earth.png" alt="image of the earth"></a>
-      <a id="mars" href="asset/subpages/mars.php"><img id="mars-img" src="asset/images/mars.png" alt="image of the mars"></a>
-      <a id="jupiter" href="asset/subpages/jupiter.php"><img id="jupiter-img" src="asset/images/jupiter.png" alt="image of the jupiter"></a>
-      <a id="saturn" href="asset/subpages/saturn.php"><img id="saturn-img" src="asset/images/saturn.png" alt="image of the saturn"></a>
-      <a id="uranus" href="asset/subpages/uranus.php"><img id="uranus-img" src="asset/images/uranus.png" alt="image of the uranus"></a>
-      <a id="neptune" href="asset/subpages/neptune.php"><img id="neptune-img" src="asset/images/neptune.png" alt="image of the neptune"></a>
+      <div><a id="sun" href="asset/subpages/sun.php"><img id="sun-img" src="asset/images/sun.png" alt="image of the sun"></a></div>
+      <div><a id="mercury" href="asset/subpages/mercury.php"><img id="mercury-img" src="asset/images/mercury.png" alt="image of the mercury"></a></div>
+      <div><a id="venus" href="asset/subpages/venus.php"><img id="venus-img" src="asset/images/venus.png" alt="image of the venus"></a></div>
+      <div><a id="earth" href="asset/subpages/earth.php"><img id="earth-img" src="asset/images/earth.png" alt="image of the earth"></a></div>
+      <div><a id="mars" href="asset/subpages/mars.php"><img id="mars-img" src="asset/images/mars.png" alt="image of the mars"></a></div>
+      <div><a id="jupiter" href="asset/subpages/jupiter.php"><img id="jupiter-img" src="asset/images/jupiter.png" alt="image of the jupiter"></a></div>
+      <div><a id="saturn" href="asset/subpages/saturn.php"><img id="saturn-img" src="asset/images/saturn.png" alt="image of the saturn"></a></div>
+      <div><a id="neptune" href="asset/subpages/neptune.php"><img id="neptune-img" src="asset/images/neptune.png" alt="image of the neptune"></a></div>
+      <div><a id="uranus" href="asset/subpages/uranus.php"><img id="uranus-img" src="asset/images/uranus.png" alt="image of the uranus"></a></div>
+
     </div>
 
     <script src="asset/js/hamburger.js"></script>

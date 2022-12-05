@@ -1,6 +1,6 @@
 
 <nav>
-            <div class="logo"><h1>logo</h1></div> 
+            <!-- <div class="logo"><h1>logo</h1></div>  -->
             <div class="openMenu"><i class="fa fa-bars"></i></div>
             <ul class="mainMenu">
                 <li><a href="#">Home</a></li>
