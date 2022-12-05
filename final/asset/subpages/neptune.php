@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <?php include '../inc/nav.php';?>
+    <?php include '../inc/nav2.php';?>
     <header>
         <h1>Neptune</h1>
     </header>
@@ -45,11 +45,18 @@
             <h2>Geology</h2>
             <p>Neptune's internal structure resembles that of Uranus. Its atmosphere forms about 5 to 10% of its mass and extends perhaps 10 to 20% of the way towards the core, where it reaches pressures of about 10 GPa, or about 100,000 times that of Earth's atmosphere. Increasing concentrations of methane, ammonia and water are found in the lower regions of the atmosphere.
 
-The mantle is equivalent to 10 to 15 Earth masses and is rich in water, ammonia and methane. As is customary in planetary science, this mixture is referred to as icy even though it is a hot, dense fluid (supercritical fluid). This fluid, which has a high electrical conductivity, is sometimes called a water–ammonia ocean. The mantle may consist of a layer of ionic water in which the water molecules break down into a soup of hydrogen and oxygen ions, and deeper down superionic water in which the oxygen crystallizes but the hydrogen ions float around freely within the oxygen lattice. At a depth of 7,000 km, the conditions may be such that methane decomposes into diamond crystals that rain downwards like hailstones. Scientists also believe that this kind of diamond rain occurs on Jupiter, Saturn, and Uranus. Very-high-pressure experiments at the Lawrence Livermore National Laboratory suggest that the top of the mantle may be an ocean of liquid carbon with floating solid 'diamonds'.
+            The mantle is equivalent to 10 to 15 Earth masses and is rich in water, ammonia and methane. As is customary in planetary science, this mixture is referred to as icy even though it is a hot, dense fluid (supercritical fluid). This fluid, which has a high electrical conductivity, is sometimes called a water–ammonia ocean. The mantle may consist of a layer of ionic water in which the water molecules break down into a soup of hydrogen and oxygen ions, and deeper down superionic water in which the oxygen crystallizes but the hydrogen ions float around freely within the oxygen lattice. At a depth of 7,000 km, the conditions may be such that methane decomposes into diamond crystals that rain downwards like hailstones. Scientists also believe that this kind of diamond rain occurs on Jupiter, Saturn, and Uranus. Very-high-pressure experiments at the Lawrence Livermore National Laboratory suggest that the top of the mantle may be an ocean of liquid carbon with floating solid 'diamonds'.
 
-The core of Neptune is likely composed of iron, nickel and silicates, with an interior model giving a mass about 1.2 times that of Earth. The pressure at the center is 7 Mbar (700 GPa), about twice as high as that at the center of Earth, and the temperature may be 5,400 K. </p>
+            The core of Neptune is likely composed of iron, nickel and silicates, with an interior model giving a mass about 1.2 times that of Earth. The pressure at the center is 7 Mbar (700 GPa), about twice as high as that at the center of Earth, and the temperature may be 5,400 K. </p>
         </section>
-
+        <footer>
+            <h2>Sources</h2>
+            <ul>
+                <li>Source1</li>
+                <li>Source2</li>
+                <li>Source3</li>
+            </ul>
+        </footer>
 
     </div>
 

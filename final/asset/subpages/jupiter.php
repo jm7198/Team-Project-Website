@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <?php include '../inc/nav.php';?>
+    <?php include '../inc/nav2.php';?>
     <header>
         <h1>Jupiter</h1>
     </header>
@@ -33,20 +33,6 @@
                 divided into a series of latitudinal bands, with turbulence and storms along their interacting
                 boundaries. A prominent result of this is the Great Red Spot, a giant storm which has been observed
                 since at least 1831.
-
-                Jupiter is surrounded by a faint planetary ring system and a powerful magnetosphere. Jupiter's magnetic
-                tail is nearly 800 million km (5.3 AU; 500 million mi) long, covering nearly the entire distance to
-                Saturn's orbit. Jupiter has 80 known moons and possibly many more, including the four large moons
-                discovered by Galileo Galilei in 1610: Io, Europa, Ganymede, and Callisto. Io and Europa are about the
-                size of Earth's Moon; Callisto is almost the size of the planet Mercury, and Ganymede is larger.
-
-                Pioneer 10 was the first spacecraft to visit Jupiter, making its closest approach to the planet in
-                December 1973. Jupiter has since been explored by multiple robotic spacecraft, beginning with the
-                Pioneer and Voyager flyby missions from 1973 to 1979, and later with the Galileo orbiter in 1995. In
-                2007, the New Horizons visited Jupiter using its gravity to increase its speed, bending its trajectory
-                en route to Pluto. The latest probe to visit the planet, Juno, entered orbit around Jupiter in July
-                2016. Future targets for exploration in the Jupiter system include the probable ice-covered liquid ocean
-                of Europa.
             </p>
         </section>
 
@@ -94,52 +80,6 @@
                 compounds, known as chromophores, mix with the warmer clouds of the lower deck. The light-coloured zones
                 are formed when rising convection cells form crystallizing ammonia that hides the chromophores from
                 view.
-
-                Jupiter's low axial tilt means that the poles always receive less solar radiation than the planet's
-                equatorial region. Convection within the interior of the planet transports energy to the poles,
-                balancing out the temperatures at the cloud layer. 
-
-                Close up of the Great Red Spot imaged by the Juno spacecraft in April 2018
-
-                The best known feature of Jupiter is the Great Red Spot, a persistent anticyclonic storm located 22°
-                south of the equator. It is known to have existed since at least 1831, and possibly since 1665. Images
-                by the Hubble Space Telescope have shown as many as two "red spots" adjacent to the Great Red Spot. The
-                storm is visible through Earth-based telescopes with an aperture of 12 cm or larger. The oval object
-                rotates counterclockwise, with a period of about six days. The maximum altitude of this storm is about 8
-                km (5 mi) above the surrounding cloud tops. The Spot's composition and the source of its red color
-                remain uncertain, although photo dissociated ammonia reacting with acetylene is a likely explanation.
-
-                The Great Red Spot is larger than the Earth. Mathematical models suggest that the storm is stable and
-                will be a permanent feature of the planet. However, it has significantly decreased in size since its
-                discovery. Initial observations in the late 1800s showed it to be approximately 41,000 km (25,500 mi)
-                across. By the time of the Voyager flybys in 1979, the storm had a length of 23,300 km (14,500 mi) and a
-                width of approximately 13,000 km (8,000 mi). Hubble observations in 1995 showed it had decreased in size
-                to 20,950 km (13,020 mi), and observations in 2009 showed the size to be 17,910 km (11,130 mi). As of
-                2015, the storm was measured at approximately 16,500 by 10,940 km (10,250 by 6,800 mi), and was
-                decreasing in length by about 930 km (580 mi) per year. In October 2021, a Juno flyby mission measured
-                the depth of the Great Red Spot, putting it at around 300–500 kilometers (190–310 mi).
-
-                Juno missions show that there are several polar cyclone groups at Jupiter's poles. The northern group
-                contains nine cyclones, with a large one in the center and eight others around it, while its southern
-                counterpart also consists of a center vortex but is surrounded by five large storms and a single smaller
-                one. These polar structures are caused by the turbulence in Jupiter's atmosphere and can be compared
-                with the hexagon at Saturn's north pole.
-
-                Formation of Oval BA from three white ovals
-
-                In 2000, an atmospheric feature formed in the southern hemisphere that is similar in appearance to the
-                Great Red Spot, but smaller. This was created when smaller, white oval-shaped storms merged to form a
-                single feature—these three smaller white ovals were formed in 1939–1940. The merged feature was named
-                Oval BA. It has since increased in intensity and changed from white to red, giving it the nickname
-                "Little Red Spot".
-
-                In April 2017, a "Great Cold Spot" was discovered in Jupiter's thermosphere at its north pole. This
-                feature is 24,000 km (15,000 mi) across, 12,000 km (7,500 mi) wide, and 200 °C (360 °F) cooler than
-                surrounding material. While this spot changes form and intensity over the short term, it has maintained
-                its general position in the atmosphere for more than 15 years. It may be a giant vortex similar to the
-                Great Red Spot, and appears to be quasi-stable like the vortices in Earth's thermosphere. This feature
-                may be formed by interactions between charged particles generated from Io and the strong magnetic field
-                of Jupiter, resulting in a redistribution of heat flow.
             </p>
         </section>
 
@@ -165,24 +105,16 @@
                 downward from the cloud layer gradually transitions to a liquid in deeper layers, possibly resembling
                 something akin to an ocean of liquid hydrogen and other supercritical fluids. Physically, the gas
                 gradually becomes hotter and denser as depth increases.
-
-                Rain-like droplets of helium and neon precipitate downward through the lower atmosphere, depleting the
-                abundance of these elements in the upper atmosphere. Calculations suggest that helium drops separate
-                from metallic hydrogen at a radius of 60,000 km (37,000 mi) (11,000 km (6,800 mi) below the cloud tops)
-                and merge again at 50,000 km (31,000 mi) (22,000 km (14,000 mi) beneath the clouds). Rainfalls of
-                diamonds have been suggested to occur, as well as on Saturn and the ice giants Uranus and Neptune.
-
-                The temperature and pressure inside Jupiter increase steadily inward because the heat of planetary
-                formation can only escape by convection. At a surface depth where the atmospheric pressure level is 1
-                bar (0.10 MPa), the temperature is around 165 K (−108 °C; −163 °F). The region of supercritical hydrogen
-                changes gradually from a molecular fluid to a metallic fluid spans pressure ranges of 50–400 GPa with
-                temperatures of 5,000–8,400 K (4,730–8,130 °C; 8,540–14,660 °F), respectively. The temperature of
-                Jupiter's diluted core is estimated to be 20,000 K (19,700 °C; 35,500 °F) with a pressure of around
-                4,000 GPa.
-
             </p>
         </section>
-
+        <footer>
+            <h2>Sources</h2>
+            <ul>
+                <li>Source1</li>
+                <li>Source2</li>
+                <li>Source3</li>
+            </ul>
+        </footer>
 
     </div>
 
