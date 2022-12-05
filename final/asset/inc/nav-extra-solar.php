@@ -1,4 +1,4 @@
-
+<!-- nav for the extra solar entities pages -->
 
 <nav>
             <!-- <div class="logo"><h1>logo</h1></div>  -->

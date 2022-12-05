@@ -1,5 +1,5 @@
 
-
+<!-- nav for the planet and moon pages -->
         <nav>
             <!-- <div class="logo"><h1>logo</h1></div>  -->
             <div class="openMenu"><i class="fa fa-bars"></i></div>
