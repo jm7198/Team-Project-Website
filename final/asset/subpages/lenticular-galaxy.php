@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <?php include '../inc/nav.php';?>
+    <?php include '../inc/nav-extra-solar.php';?>
     <header>
         <h1>Lenticular Galaxy</h1>
     </header>
