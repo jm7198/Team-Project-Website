@@ -20,8 +20,9 @@
         <section id="Description">
             <h2>Description</h2>
             <p>
-                A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs.        </section>
+                A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs.
             </p>
+        </section>
         <section id="Fun-Fact">
             <h2>Fun Facts</h2>
             <ul>

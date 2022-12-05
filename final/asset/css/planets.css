@@ -99,20 +99,24 @@ h2{
     color: white ;
   }
 
-  ul {
+  footer p{
+    color: black;
+  }
+
+  footer ul {
     list-style-type: none;
   }
 
-  a {
+  footer a {
     color: darkblue;
     text-decoration: none;
   }
 
-  a:visited {
+  footer a:visited {
     color: darkgreen;
   }
 
-  a:hover {
+  footer a:hover {
     color: green;
   }
 
