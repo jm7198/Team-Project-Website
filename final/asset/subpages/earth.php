@@ -116,14 +116,7 @@
         </section>
         <!-- <section id="planets">
             <img id="planet" src="../images/earth-Rotating.gif" </section> -->
-        <footer>
-            <h2>Sources</h2>
-            <ul>
-                <li>Source1</li>
-                <li>Source2</li>
-                <li>Source3</li>
-            </ul>
-        </footer>
+        <?php include '../inc/footer.php';?>
     </div>
 
 
