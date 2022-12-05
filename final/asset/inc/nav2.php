@@ -26,11 +26,11 @@
                 <li class="page-nav"><a href="#Geology">Geology</a></li>
 
                 <div class="closeMenu"><i class="fa fa-times"></i></div>
-                <span class="icons">
+                <!-- <span class="icons">
                     <i class="fab fa-facebook"></i>
                     <i class="fab fa-instagram"></i>
                     <i class="fab fa-twitter"></i>
                     <i class="fab fa-github"></i>
-                </span>
+                </span> -->
             </ul>
         </nav>
