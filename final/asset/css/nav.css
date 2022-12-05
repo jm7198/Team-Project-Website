@@ -33,10 +33,9 @@
     background: rgb(255, 94, 0);
   }
 
-
-
   #filler{
     flex-grow: 1;
+    flex-shrink: 1;
   }
 
   nav .openMenu {
@@ -165,6 +164,9 @@
       display: none;
     }
 
-
+    #filler{
+      flex-grow: 0;
+      height: 20px;
+    }
   }
 
