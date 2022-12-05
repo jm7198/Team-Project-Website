@@ -114,8 +114,13 @@
                 million km2 (6.4 million sq mi) of cropland and 33.5 million km2 (12.9 million sq mi) of pastureland.
             </p>
         </section>
+
+        <section id = "wormhole">
+            <h3>Do you dare enter the wormhole?</h3>
+        </section>
         <!-- <section id="planets">
             <img id="planet" src="../images/earth-Rotating.gif" </section> -->
+        <script src="../js/wormhole.js"></script>
         <?php include '../inc/footer.php';?>
     </div>
 
