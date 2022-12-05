@@ -1,11 +1,16 @@
-/* *{
+*{
   outline: solid 1px hotpink;
-} */
+}
 
-h1{
+h1, h2{
   text-align: center;
   color: white;
 }
+
+h2{
+  padding-top: 10px;
+}
+
 
 body{
   background-image: url(../images/star-background.jpg);

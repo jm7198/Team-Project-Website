@@ -13,6 +13,9 @@
 
     <?php include 'asset/inc/nav.php';?>
     <?php include 'asset/inc/header.php';?>
+    
+    <h2 id="planet-select">select a planet</h2>
+    
 
     <div id="solar-system">
       <div><a id="sun" href="asset/subpages/sun.php"><img id="sun-img" src="asset/images/sun.png" alt="image of the sun"></a></div>
@@ -28,5 +31,7 @@
     </div>
 
     <script src="asset/js/hamburger.js"></script>
+    <script src="asset/js/home.js"></script>
+
 </body>
 </html
