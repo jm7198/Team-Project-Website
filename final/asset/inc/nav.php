@@ -3,7 +3,7 @@
             <!-- <div class="logo"><h1>logo</h1></div>  -->
             <div class="openMenu"><i class="fa fa-bars"></i></div>
             <ul class="mainMenu">
-                <li><a href="../../">Home</a></li>
+                <li><a href="../../index.php">Home</a></li>
                 <div class="dropdown">
                     <button class="dropbtn">PLANETS</button>
                     <div class="dropdown-content">
@@ -18,8 +18,12 @@
                  
                     </div>
                 </div>
-                <li><a href="#">Blank</a></li>
-                <li><a href="#">blank</a></li>
+                <li id="filler"></li>
+                <li class="page-nav"><a href="#Description">Description</a></li>
+                <li class="page-nav"><a href="#Fun-Fact">Fun-Facts</a></li>
+                <li class="page-nav"><a href="#Atmostphere">Atmostphere</a></li>
+                <li class="page-nav"><a href="#Geology">Geology</a></li>
+
                 <div class="closeMenu"><i class="fa fa-times"></i></div>
                 <span class="icons">
                     <i class="fab fa-facebook"></i>
