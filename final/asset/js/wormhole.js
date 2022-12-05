@@ -3,8 +3,8 @@ const wormhole = document.getElementById('wormhole');
 wormhole.addEventListener("click", (event) => {
     let value = Math.random();
     console.log(value);
-    if (value > .5){
-        if (value > .75){
+    if (value > .3){
+        if (value > .6){
             location.href = "lenticular-galaxy.php";
         }else{
             location.href = "throne-zytkow.php";
