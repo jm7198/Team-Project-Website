@@ -58,7 +58,15 @@
             Although the model considered above is reasonably standard, it is not unique; other models also satisfy observations. For instance, if substantial amounts of hydrogen and rocky material are mixed in the ice mantle, the total mass of ices in the interior will be lower, and, correspondingly, the total mass of rocks and hydrogen will be higher. Presently available data does not allow a scientific determination of which model is correct. The fluid interior structure of Uranus means that it has no solid surface. The gaseous atmosphere gradually transitions into the internal liquid layers. For the sake of convenience, a revolving oblate spheroid set at the point at which atmospheric pressure equals 1 bar (100 kPa) is conditionally designated as a "surface". It has an equatorial and polar radius of 25,559 ± 4 km (15,881.6 ± 2.5 mi) and 24,973 ± 20 km (15,518 ± 12 mi), respectively. This surface is used throughout this article as a zero point for altitudes.
             </p>
         </section>
-        <?php include '../inc/footer.php';?>
+        <footer>
+            <h2>Sources</h2>
+            <ul>
+                <li>Source1</li>
+                <li>Source2</li>
+                <li>Source3</li>
+            </ul>
+        </footer>
+
     </div>
 
 

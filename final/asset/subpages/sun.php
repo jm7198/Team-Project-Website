@@ -69,7 +69,15 @@
             The chemical composition of the photosphere is normally considered representative of the composition of the primordial Solar System. The solar heavy-element abundances described above are typically measured both using spectroscopy of the Sun's photosphere and by measuring abundances in meteorites that have never been heated to melting temperatures. These meteorites are thought to retain the composition of the protostellar Sun and are thus not affected by the settling of heavy elements. The two methods generally agree well.
             </p>
         </section>
-        <?php include '../inc/footer.php';?>
+        <footer>
+        <h2>Sources</h2>
+        <ul>
+            <li>Source1</li>
+            <li>Source2</li>
+            <li>Source3</li>
+         </ul>
+        </footer>
+
     </div>
 
 

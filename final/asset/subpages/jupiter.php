@@ -107,7 +107,15 @@
                 gradually becomes hotter and denser as depth increases.
             </p>
         </section>
-        <?php include '../inc/footer.php';?>
+        <footer>
+            <h2>Sources</h2>
+            <ul>
+                <li>Source1</li>
+                <li>Source2</li>
+                <li>Source3</li>
+            </ul>
+        </footer>
+
     </div>
 
 
