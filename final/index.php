@@ -10,11 +10,11 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" />
 </head>
 <body>
-  <?php include 'asset/inc/nav.php';?>
-  <?php include 'asset/inc/header.php';?>
+  
 
   <div id="page-container">
-
+  <?php include 'asset/inc/nav.php';?>
+  <?php include 'asset/inc/header.php';?>
     
       <div id="solar-system">
         <div><a id="sun" href="asset/subpages/sun.php"><img id="sun-img" src="asset/images/sun.png" alt="image of the sun"></a></div>

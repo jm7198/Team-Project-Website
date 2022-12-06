@@ -151,6 +151,8 @@ h2{
     vertical-align: middle;
   }
 
-/* #planet{
-max-width: 100%;
-} */
+  @media (max-width: 800px) {
+    .container{
+      display: block;
+    }
+  }
