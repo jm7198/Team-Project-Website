@@ -18,7 +18,7 @@
     <header>
         <h1>Earth</h1>
     </header>
-    <div id="pi-div"><img class="page-image" src="../images/earth-Rotating.gif" alt="test"></div>
+    <div id="pi-div"><img class="page-image" src="../images/earth-Rotating.gif" alt="earth rotating"></div>
 
     <div class="container">
         <section id="Description">

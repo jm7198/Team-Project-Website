@@ -17,7 +17,7 @@
     <header>
         <h1>Neptune</h1>
     </header>
-    <div id="pi-div"><img class="page-image" src="../images/neptune-rotating.gif" alt="test"></div>
+    <div id="pi-div"><img class="page-image" src="../images/neptune-rotating.gif" alt="neptune rotating"></div>
 
     <div class="container">
         <section id="Description">

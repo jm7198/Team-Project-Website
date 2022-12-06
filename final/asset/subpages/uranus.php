@@ -17,7 +17,7 @@
     <header>
         <h1>Uranus</h1>
     </header>
-    <div id="pi-div"><img class="page-image" src="../images/uranus-rotating.gif" alt="test"></div>
+    <div id="pi-div"><img class="page-image" src="../images/uranus-rotating.gif" alt="uranus rotating"></div>
 
     <div class="container">
         <section id="Description">

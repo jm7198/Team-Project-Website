@@ -18,7 +18,7 @@
         <h1>Mars</h1>
     </header>
     
-    <div id="pi-div"><img class="page-image" src="../images/mars-rotating.gif" alt="test"></div>
+    <div id="pi-div"><img class="page-image" src="../images/mars-rotating.gif" alt="Mars rotating"></div>
 
     <div class="container">
         <section id="Description">

@@ -18,7 +18,7 @@
         <h1>Lenticular Galaxy</h1>
     </header>
 
-    <img class="page-image" src="../images/galaxy.png" alt="A image of a Lenticular Galaxy">
+    <img src="../images/galaxy.png" alt="A image of a Lenticular Galaxy">
     <div class="container">
         <section id="Description">
             <h2>Description</h2>

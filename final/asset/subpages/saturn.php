@@ -17,7 +17,7 @@
     <header>
         <h1>Saturn</h1>
     </header>
-    <div id="pi-div"><img class="page-image" src="../images/saturn-rotating.gif" alt="test"></div>
+    <div id="pi-div"><img class="page-image" src="../images/saturn-rotating.gif" alt="saturn rotating"></div>
 
     <div class="container">
         <section id="Description">

@@ -17,7 +17,7 @@
     <header>
         <h1>Jupiter</h1>
     </header>
-    <div id="pi-div"><img class="page-image" src="../images/jupiter-rotating.gif" alt="test"></div>
+    <div id="pi-div"><img class="page-image" src="../images/jupiter-rotating.gif" alt="jupiter rotating"></div>
 
     <div class="container">
         <section id="Description">
