@@ -18,7 +18,7 @@
         <h1>Moon</h1>
     </header>
     <div id="pi-div"><img class="page-image" src="../images/moon-rotating.gif" alt="Moon rotating"></div>
-    <a class="moon-wrap" href="earth.php"><img class="moon" src="../images/earth.png" alt="earth"></a>
+    <a class="moon-wrap" href="earth.php"><img class="moon" src="../images/earth.webp" alt="earth"></a>
 
     <div class="container">
         <section id="Description">

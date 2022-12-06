@@ -22,8 +22,8 @@
     <header>
         <h1>Earth</h1>
     </header>
-    <div id="pi-div"><img class="page-image" src="../images/earth-Rotating.gif" alt="earth rotating"></div>
-    <a class="moon-wrap" href="moon.php"><img class="moon" src="../images/moon.png" alt="moon"></a>
+    <div id="pi-div"><img class="page-image" src="../images/earth-rotating.gif" alt="earth rotating"></div>
+    <a class="moon-wrap" href="moon.php"><img class="moon" src="../images/moon.webp" alt="moon"></a>
     <div class="container">
         <section id="Description">
             <h2>Description</h2>
