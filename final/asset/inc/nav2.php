@@ -8,6 +8,7 @@
                 <div class="dropdown">
                     <button class="dropbtn">PLANETS</button>
                     <div class="dropdown-content">
+                    <a href="sun.php">Sun</a>
                     <a href="mercury.php">Mercury</a>
                     <a href="venus.php">Venus</a>
                     <a href="earth.php">Earth</a>
