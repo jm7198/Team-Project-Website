@@ -57,7 +57,11 @@
             At the antipode of the Caloris Basin is a large region of unusual, hilly terrain known as the "Weird Terrain". One hypothesis for its origin is that shock waves generated during the Caloris impact traveled around Mercury, converging at the basin's antipode (180 degrees away). The resulting high stresses fractured the surface. Alternatively, it has been suggested that this terrain formed as a result of the convergence of ejecta at this basin's antipode.
             </p>
         </section>
+        
         <?php include '../inc/wormhole.php';?>
+        <section id="planets">
+            <img src="../images/mercury-rotating.gif">
+         </section>
         <?php include '../inc/footer.php';?>
     </div>
 

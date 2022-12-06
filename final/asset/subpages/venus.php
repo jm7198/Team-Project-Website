@@ -66,6 +66,9 @@
             </p>
         </section>
         <?php include '../inc/wormhole.php';?>
+        <section id="planets">
+            <img src="../images/venus-rotating.gif">
+         </section>
         <?php include '../inc/footer.php';?>
     </div>
 
