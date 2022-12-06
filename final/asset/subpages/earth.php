@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/planets.css">
     <link rel="stylesheet" href="../css/nav.css">
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css" integrity="sha256-46r060N2LrChLLb5zowXQ72/iKKNiw/lAmygmHExk/o=" crossorigin="anonymous" />
 
     <title>Earth</title>
@@ -118,8 +119,9 @@
         </section>
 
         <?php include '../inc/wormhole.php';?>
-        <!-- <section id="planets">
-            <img id="planet" src="../images/earth-Rotating.gif" </section> -->
+        <section id="planets">
+            <img src="../images/earth-rotating.gif">
+         </section>
         
         <?php include '../inc/footer.php';?>
     </div>
