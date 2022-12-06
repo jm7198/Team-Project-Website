@@ -17,6 +17,7 @@
     <header>
         <h1>Moon</h1>
     </header>
+    <div id="pi-div"><img class="page-image" src="../images/moon-rotating.gif" alt="test"></div>
 
     <div class="container">
         <section id="Description">

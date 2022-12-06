@@ -18,6 +18,7 @@
     <header>
         <h1>Earth</h1>
     </header>
+    <div id="pi-div"><img class="page-image" src="../images/earth-Rotating.gif" alt="test"></div>
 
     <div class="container">
         <section id="Description">
@@ -119,9 +120,9 @@
         </section>
 
         <?php include '../inc/wormhole.php';?>
-        <section id="planets">
+        <!-- <section id="planets">
             <img src="../images/earth-rotating.gif">
-         </section>
+         </section> -->
         
         <?php include '../inc/footer.php';?>
     </div>

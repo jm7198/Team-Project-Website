@@ -17,7 +17,7 @@
     <header>
         <h1>Mercury</h1>
     </header>
-    <img class="page-image" src="../images/mercury-rotating.gif" alt="test">
+    <div id="pi-div"><img class="page-image" src="../images/mercury-rotating.gif" alt="test"></div>
 
     <div class="container">
         <section id="Description">

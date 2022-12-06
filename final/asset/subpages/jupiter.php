@@ -17,6 +17,7 @@
     <header>
         <h1>Jupiter</h1>
     </header>
+    <div id="pi-div"><img class="page-image" src="../images/jupiter-rotating.gif" alt="test"></div>
 
     <div class="container">
         <section id="Description">
@@ -110,10 +111,10 @@
             </p>
         </section>
         <?php include '../inc/wormhole.php';?>
-        <?php include '../inc/wormhole.php';?>
-        <section id="planets">
+
+        <!-- <section id="planets">
             <img src="../images/jupiter-rotating.gif">
-         </section>
+         </section> -->
         <?php include '../inc/footer.php';?>
     </div>
 

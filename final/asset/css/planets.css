@@ -5,6 +5,7 @@
 h1{
     text-align: center;
     color: white ;
+    
 }
 h2{
     color: white;
@@ -16,6 +17,7 @@ body{
     background-position: 0%;
     background-size:100% 100%;
     background-attachment: fixed;
+
 }
 
 
@@ -23,18 +25,24 @@ img{
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width:100%;
     
+    z-index: -99;
 }
 
 .page-image{
+  
   display: block;
   margin-left: auto;
   margin-right: auto;
   mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,.5)50%,rgba(0,0,0,0)66%);
-  width: 56%;
+  height: 110vh;
+  /* object-fit: fill; */
 position: relative;
-top: -18vh;
+top: -5vh;
+}
+
+#pi-div{
+  height: 60vh;
 }
 
 h2{
@@ -42,8 +50,7 @@ h2{
 }
 
   .container {
-    position: relative;
-top: -72vh;
+
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 10px;
@@ -160,5 +167,14 @@ top: -72vh;
   @media (max-width: 800px) {
     .container{
       display: block;
+      top: 0vh;
     }
+
+    .page-image{
+      top:0vh;
+      right: 40px;
+    }
+
+
+
   }
