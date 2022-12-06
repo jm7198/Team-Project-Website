@@ -17,6 +17,7 @@
     <header>
         <h1>Mercury</h1>
     </header>
+    <img class="page-image" src="../images/mercury-rotating.gif" alt="test">
 
     <div class="container">
         <section id="Description">
@@ -59,9 +60,9 @@
         </section>
         
         <?php include '../inc/wormhole.php';?>
-        <section id="planets">
+        <!-- <section id="planets">
             <img src="../images/mercury-rotating.gif">
-         </section>
+         </section> -->
         <?php include '../inc/footer.php';?>
     </div>
 
