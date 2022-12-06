@@ -1,6 +1,7 @@
 /* *{
   outline: solid 1px hotpink;
 } */
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Fredericka+the+Great&display=swap');
 
 h1, h2{
   text-align: center;
@@ -118,7 +119,7 @@ footer {
   padding: 20px;
   padding-top: 0px;
   margin-left: 0px;
-  background-color: rgba(128, 128, 128, .3);
+  /* background-color: rgba(128, 128, 128, .3); */
   text-align: center;
   grid-column-start: 1;
   grid-column-end: 4;
@@ -128,6 +129,7 @@ footer {
 }
 
 footer p{
+  font-family: 'Fredericka the Great', cursive;
   color: black;
 }
 

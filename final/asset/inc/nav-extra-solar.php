@@ -4,7 +4,7 @@
             <!-- <div class="logo"><h1>logo</h1></div>  -->
             <div class="openMenu"><i class="fa fa-bars"></i></div>
             <ul class="mainMenu">
-                <li><a href="../../index.php">Home</a></li>
+                <li><a id="home" href="../../index.php">Home</a></li>
                 <div class="dropdown">
                     <button class="dropbtn">PLANETS</button>
                     <div class="dropdown-content">

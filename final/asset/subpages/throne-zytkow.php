@@ -18,7 +18,7 @@
         <h1>Thorne–Żytkow object</h1>
     </header>
 
-    <img src="../images/thornezytkow.png" alt="A illustration of a Thorne–Żytkow object">
+    <img class="es-img" src="../images/thornezytkow.png" alt="A illustration of a Thorne–Żytkow object">
 
     <div class="container">
         <section id="Description">
