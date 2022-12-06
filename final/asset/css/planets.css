@@ -26,7 +26,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     
-    z-index: -99;
+    z-index: -9;
 }
 
 .page-image{
@@ -44,6 +44,25 @@ top: -5vh;
 #pi-div{
   height: 60vh;
 }
+
+.moon-wrap{
+  position: absolute;
+  top: 20vh;
+  left:5vh;
+  
+}
+
+.moon{
+  z-index: -10;
+  height: 10vh;
+}
+
+.moon:hover{
+  transform: scale(1.2);
+  transition-duration: .2s;
+  transition-timing-function: ease;
+}
+
 
 h2{
   margin-bottom: 10px;
